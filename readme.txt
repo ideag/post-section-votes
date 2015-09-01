@@ -1,13 +1,15 @@
-=== Post Section Voting ===
-Contributors: PovilasKorop
+=== Post Section Votes ===
+Contributors: ideag, PovilasKorop
 Tags: voting, sections
 Requires at least: 3.0.1
-Tested up to: 3.8
-Stable tag: 0,1
+Tested up to: 4.3.0
+Stable tag: 0.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Divide posts into sections and implement voting for each of them. Great for list-type posts.
+
+Original author of this plugin was [Povilas Korop](http://www.webcoderpro.com).
 
 == Description ==
 
@@ -17,8 +19,8 @@ This way you would see, which section/link is the most popular among your reader
 
 Current features:
 
-*   Dividing posts into sections with shortcode [psv-section]
-*	Voting for each section, with result of voting available immediately in the post
+* Dividing posts into sections with shortcode [psv-section]
+* Voting for each section, with result of voting available immediately in the post
 
 == Installation ==
 
@@ -33,7 +35,14 @@ Current features:
 
 == Changelog ==
 
+= 0.2.0 =
+
+* new maintainer
+* code cleanup
+* some options
+
 = 0.1 =
+
 Initial release
 
 == Upgrade Notice ==

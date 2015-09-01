@@ -2,7 +2,7 @@
 /*
 Plugin Name: Post Section Voting (old)
 Description: Divide posts into sections and implement voting for each of them. Great for list-type posts.
-Version: 0.1
+Version: 0.2.0
 Author: Povilas Korop
 Author URI: http://www.webcoderpro.com
 License: GPL2

@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Post Section Voting (new)
+Plugin Name: Post Section Votes
 Description: Divide posts into sections and implement voting for each of them. Great for list-type posts.
-Version: 0.1
-Author: Povilas Korop
-Author URI: http://www.webcoderpro.com
+Version: 0.2.0
+Author: Arūnas Liuiza
+Author URI: http://arunas.co
 License: GPL2
 */
 
